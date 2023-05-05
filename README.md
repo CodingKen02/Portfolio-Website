@@ -1,2 +1,5 @@
 # Portfolio-Website
-UPLOADING SOON: This is displaying my portfolio website. I will always be working on this while learning new tools &amp; techniques in my coursework.
+This is displaying my portfolio website. 
+I decided to use Canva to help display my creativity with a design productivity tool that will showcase my work in GitHub.
+
+https://kennedys-portfolio.my.canva.site/
